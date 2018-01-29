@@ -1,0 +1,7 @@
+# Elasticsearch
+elasticsearch :
+  cluster :
+    name : my-application
+  ip : 39.107.109.85
+  port : 9300
+  pool : 5
